@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Häufig gestellte Fragen on Bigspring Hugo</title>
+    <link>http://examplesite.org/de/faq/</link>
+    <description>Recent content in Häufig gestellte Fragen on Bigspring Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)</copyright><atom:link href="http://examplesite.org/de/faq/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
