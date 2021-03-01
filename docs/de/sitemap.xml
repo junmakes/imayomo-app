@@ -2,127 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://examplesite.org/de/</loc>
+    <loc>https://junmakes.github.io/apps/de/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="https://junmakes.github.io/apps/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/"
+                href="https://junmakes.github.io/apps/de/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/blog/post-1/</loc>
+    <loc>https://junmakes.github.io/apps/de/blog/post-1/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/post-1/"
+                href="https://junmakes.github.io/apps/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/blog/post-1/"
+                href="https://junmakes.github.io/apps/de/blog/post-1/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/blog/</loc>
+    <loc>https://junmakes.github.io/apps/de/blog/</loc>
     <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/blog/"
+                href="https://junmakes.github.io/apps/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/blog/"
+                href="https://junmakes.github.io/apps/de/blog/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/terms-conditions/</loc>
+    <loc>https://junmakes.github.io/apps/de/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/terms-conditions/"
+                href="https://junmakes.github.io/apps/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/terms-conditions/"
+                href="https://junmakes.github.io/apps/de/terms-conditions/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/categories/</loc>
+    <loc>https://junmakes.github.io/apps/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="https://junmakes.github.io/apps/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/categories/"
+                href="https://junmakes.github.io/apps/de/categories/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/privacy-policy/</loc>
+    <loc>https://junmakes.github.io/apps/de/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/privacy-policy/"
+                href="https://junmakes.github.io/apps/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/privacy-policy/"
+                href="https://junmakes.github.io/apps/de/privacy-policy/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/faq/</loc>
+    <loc>https://junmakes.github.io/apps/de/faq/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/faq/"
+                href="https://junmakes.github.io/apps/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/faq/"
+                href="https://junmakes.github.io/apps/de/faq/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/contact/</loc>
+    <loc>https://junmakes.github.io/apps/de/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/contact/"
+                href="https://junmakes.github.io/apps/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/contact/"
+                href="https://junmakes.github.io/apps/de/contact/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/pricing/</loc>
+    <loc>https://junmakes.github.io/apps/de/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/pricing/"
+                href="https://junmakes.github.io/apps/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/pricing/"
+                href="https://junmakes.github.io/apps/de/pricing/"
                 />
   </url><url>
-    <loc>http://examplesite.org/de/tags/</loc>
+    <loc>https://junmakes.github.io/apps/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="https://junmakes.github.io/apps/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/tags/"
+                href="https://junmakes.github.io/apps/de/tags/"
                 />
   </url>
 </urlset>

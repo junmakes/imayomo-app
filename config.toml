@@ -2,7 +2,7 @@ publishDir = "docs"
 canonifyurls = true
 
 ######################## default configuration ####################
-baseURL = "https://junmakes.github.io/"
+baseURL = "https://junmakes.github.io/apps/"
 title = "imayomo"
 theme = "bigspring"
 # post pagination
