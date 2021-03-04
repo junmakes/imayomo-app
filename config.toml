@@ -93,7 +93,7 @@ url = "terms-conditions"
 [[menu.footer_right]]
 name = "FAQ"
 url = "faq"
-
+
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"

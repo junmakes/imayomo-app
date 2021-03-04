@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions on imayomo</title>
-    <link>https://junmakes.github.io/apps/imayomo/faq/</link>
+    <link>https://junmakes.github.io/imayomo-web/faq/</link>
     <description>Recent content in Frequently Asked Questions on imayomo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>©️junmakes</copyright><atom:link href="https://junmakes.github.io/apps/imayomo/faq/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©️junmakes</copyright><atom:link href="https://junmakes.github.io/imayomo-web/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
