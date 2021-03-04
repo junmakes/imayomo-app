@@ -1,10 +1,10 @@
+######################## default configuration ####################
 publishDir = "docs"
 canonifyurls = true
-
-######################## default configuration ####################
-baseURL = "https://junmakes.github.io/apps/"
+baseURL = "https://junmakes.github.io/apps/imayomo"
 title = "imayomo"
 theme = "bigspring"
+defaultContentLanguage = "ja"
 # post pagination
 paginate = "3"
 # post excerpt
@@ -40,24 +40,19 @@ link = "plugins/slick/slick.min.js"
 
 # main menu
 [[menu.main]]
-name = "Blog"
+name = "ブログ"
 url = "blog"
 weight = 1
 
 [[menu.main]]
-name = "Pricing"
-url = "pricing"
+name = "問い合わせ"
+url = "contact"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
-
-[[menu.main]]
-name = "FAQ"
+name = "他のアプリ"
 url = "faq"
-weight = 4
+weight = 3
 
 # footer menu left
 [[menu.footer_left]]
@@ -117,37 +112,27 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [params.navigation_button]
 enable = true
-label = "Get Started"
+label = "Download"
 link = "contact"
 
   
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/junmakes"
 
 [[params.social]]
-title = "skype"
-icon = "ti-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "GitHub"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/junmakes"
 
 
-############################# English ############################
-[languages.en]
-languageName = "En"
-title = "Bigspring Hugo"
-contentDir = "content/english" # content/english
+############################# 日本語 ############################
+[languages.ja]
+languageName = "Ja"
+title = "imayomo"
+contentDir = "content/japanese" # content/japanese
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
@@ -155,19 +140,4 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
-
-
-############################# Deutsch ############################
-[languages.de]
-languageName = "De"
-title = "Bigspring Hugo"
-contentDir = "content/deutsch" # content/german
-weight = 2
-########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-# copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "©️junmakes"
