@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 publishDir = "docs"
 canonifyurls = true
-baseURL = "https://junmakes.github.io/imayomo-web"
+baseURL = "https://junmakes.github.io/imayomo-app"
 title = "imayomo"
 theme = "bigspring"
 defaultContentLanguage = "ja"
