@@ -107,7 +107,7 @@ link = "https://github.com/junmakes"
 
 [languages.ja]
 languageName = "Ja"
-title = "imayomo"
+title = "imayomo | 「あとで読む」を「いま読もう」へ。"
 contentDir = "content/japanese" # content/japanese
 weight = 1
 
