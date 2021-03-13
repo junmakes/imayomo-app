@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privecy &amp; Policy on imayomo</title>
-    <link>https://junmakes.github.io/imayomo-web/privacy-policy/</link>
+    <link>https://junmakes.github.io/imayomo-app/privacy-policy/</link>
     <description>Recent content in Privecy &amp; Policy on imayomo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>©️junmakes</copyright><atom:link href="https://junmakes.github.io/imayomo-web/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©️junmakes</copyright><atom:link href="https://junmakes.github.io/imayomo-app/privacy-policy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
