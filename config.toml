@@ -1,10 +1,11 @@
-######################## default configuration ####################
-publishDir = "docs"
-canonifyurls = true
+############################## default configuration ##############################
+
 baseURL = "https://junmakes.github.io/imayomo-app"
 title = "imayomo"
 theme = "bigspring"
 defaultContentLanguage = "ja"
+publishDir = "docs"
+canonifyurls = true
 # post pagination
 paginate = "3"
 # post excerpt
@@ -17,7 +18,7 @@ googleAnalytics = "G-FCKSSX2SR3" # example : UA-123-45
 [markup.goldmark.renderer]
 unsafe = true
 
-############################# Plugins ##############################
+############################## Plugins ##############################
 
 # CSS Plugins
 [[params.plugins.css]]
@@ -35,66 +36,41 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 
-
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "ブログ"
-url = "blog"
-weight = 1
+#[[menu.main]]
+#name = "ブログ"
+#url = "blog"
+#weight = 1
 
-[[menu.main]]
-name = "問い合わせ"
-url = "contact"
-weight = 2
+#[[menu.main]]
+#name = "問い合わせ"
+#url = "contact"
+#weight = 2
 
-[[menu.main]]
-name = "他のアプリ"
-url = "faq"
-weight = 3
+#[[menu.main]]
+#name = "他のアプリ"
+#url = "faq"
+#weight = 3
 
 # footer menu left
 [[menu.footer_left]]
-name = "About Us"
-url = "#"
-
-[[menu.footer_left]]
-name = "Quick Start"
-url = "#"
-
-[[menu.footer_left]]
-name = "Pricing"
-url = "pricing"
-
+name = "junmakes"
+url = "https://junmakes.github.io/"
 
 # footer menu middle
 [[menu.footer_middle]]
-name = "Pricing"
-url = "pricing"
-
-[[menu.footer_middle]]
-name = "Platform"
-url = "#"
-
-[[menu.footer_middle]]
-name = "Features"
+name = "App Store / Google Play"
 url = "#"
 
 # footer menu right
 [[menu.footer_right]]
-name = "Privacy Policy"
+name = "プライバシーポリシー"
 url = "privacy-policy"
 
-[[menu.footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+############################## default parameters ##############################
 
-[[menu.footer_right]]
-name = "FAQ"
-url = "faq"
-
-#################### default parameters ################################
 [params]
 logo = "images/logo.png"
 logo_width = "200px"
@@ -112,11 +88,11 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation buttons
 [params.navigation_button]
 enable = true
-label = "Download"
-link = "contact"
+label = "ダウンロード"
+link = "faq"
 
-  
-############################# social site ########################
+############################## social site ##############################
+
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
@@ -127,17 +103,15 @@ title = "GitHub"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
 link = "https://github.com/junmakes"
 
+############################## 日本語 ##############################
 
-############################# 日本語 ############################
 [languages.ja]
 languageName = "Ja"
 title = "imayomo"
 contentDir = "content/japanese" # content/japanese
 weight = 1
-########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+
+############################## footer content ##############################
+
 # copyright
-copyright = "©️ 2021 junmakes"
+copyright = "©️ junmakes"
