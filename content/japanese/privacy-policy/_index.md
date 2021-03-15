@@ -1,31 +1,61 @@
 ---
-title: "Privecy & Policy"
+title: "プライバシーポリシー"
 subtitle: ""
 # meta description
 description: "This is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+### 1. はじめに
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+Jun（以下「開発者」）は、スマートフォン用アプリケーション（以下「アプリ」）を開発・運用しています。本アプリのご使用によって、本規約に同意していただいたものとみなします。
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+### 2. 収集する情報と利用目的
 
-#### Gathering of Personal Information
+アプリのご利用に際して、以下の利用者情報を取得いたします。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+1. アプリケーションの利用状況の収集
+1. お問い合わせやご意見を頂く際の個人情報の収集
 
-#### Protection of  Personal- Information
+当方が配信するアプリでは、利用状況解析のためにGoogle Firebase Analyticsを使用する場合がございます。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+[Pocket: Privacy Policy](https://getpocket.com/en/privacy/)
 
-#### Privacy Policy Changes
+[プライバシー ポリシー – ポリシーと規約 – Google](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+
+
+### 3. 個人情報の管理
+
+当方は、お客さまの個人情報を正確かつ最新の状態に保ち、個人情報への不正アクセス・紛失・破損・改ざん・漏洩などを防止するため、安全対策を実施し個人情報の厳重な管理を行ないます。
+
+### 4. 個人情報の第三者への開示・提供の禁止
+
+当方は、お客さまよりお預かりした個人情報を適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
+
+- お客さまの同意がある場合
+- 法令に基づき開示することが必要である場合
+
+
+### 6. 免責事項
+
+本アプリがユーザーの特定の目的に適合すること、期待する機能・商品的価値・正確性・有用性を有すること、および不具合が生じないことについて、何ら保証するものではありません。
+
+当方の都合によりアプリの仕様を変更できます。開発者は、本アプリの提供の終了、変更、または利用不能、本アプリの利用によるデータの消失または機械の故障もしくは損傷、その他本アプリに関してユーザーが被った損害につき、賠償する責任を一切負わないものとします。
+
+
+### 8. 連絡先
+
+お問い合わせ先
+
+### ７．改定
+
+当社は、当社の裁量に基づいて、本ポリシーを変更します。但し、取得するユーザー情報、利用目的、第三者提供に変更が発生した場合、本アプリケーションまたは当社のホームページで通知するとともに、本ポリシー変更後、本アプリケーションの初回起動時に改めてユーザーから同意を取得します。
+
+９．制定日・改定日
+
+- 制定：●年●月●日
+- 改定：●年●月●日
+- 改定：●年●月●日
