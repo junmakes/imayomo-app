@@ -60,9 +60,9 @@ name = "junmakes"
 url = "https://junmakes.github.io/"
 
 # footer menu middle
-[[menu.footer_middle]]
-name = "App Store / Google Play"
-url = "#"
+#[[menu.footer_middle]]
+#name = "App Store / Google Play"
+#url = "#"
 
 # footer menu right
 [[menu.footer_right]]
@@ -87,7 +87,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
 [params.navigation_button]
-enable = true
+enable = false
 label = "ダウンロード"
 link = "faq"
 
@@ -114,4 +114,4 @@ weight = 1
 ############################## footer content ##############################
 
 # copyright
-copyright = "©️ junmakes"
+copyright = "©️ 2021 junmakes"
