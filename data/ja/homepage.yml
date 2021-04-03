@@ -5,8 +5,10 @@ banner:
   content : "読む記事に悩まない、読むことを継続したくなるアプリ。"
   button:
     enable : false
-    label : "Download"
-    link : "contact"
+    label : ""
+    link : ""
+    appstore_link : "https://www.apple.com/jp/app-store/"
+    googleplay_link : "https://play.google.com/store"
 
 ##################### Feature ##########################
 feature:
@@ -49,19 +51,20 @@ service:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
       button:
-        enable : false
+        enable : true
         label : "Check it out"
         link : "#"
   
 
 ##################### Call to action #####################
 call_to_action:
-  enable : false
+  enable : true
   title : "ダウンロードはこちら"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  image : ""
+  content : "imayomoアプリはiOS、Androidに対応しています。"
   button:
     enable : true
-    label : "App Store / Google Play"
-    link : "contact"
+    label : ""
+    appstore_link : "https://www.apple.com/jp/app-store/"
+    googleplay_link : "https://play.google.com/store"
 
