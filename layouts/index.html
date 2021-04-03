@@ -22,10 +22,10 @@
     <div class="align-items-center justify-content-center text-center" style="margin-top: 50px;">
       {{ with .button }}
       <div id="app">
-        <a href="{{ .appstore_link | relURL }}" class="store appstore">
+        <a href="{{ .appstore_link | relURL }}" class="store" id="appstore">
           <img src="images/appstore-badge.svg" class="" height="70">
         </a>
-        <a href="{{ .googleplay_link | relURL }}" class="store googleplay">
+        <a href="{{ .googleplay_link | relURL }}" class="store" id="googleplay">
           <img src="images/googleplay-badge.png" class="" height="102">
         </a>
         <img src="images/qrcode.png" class="" height="120" style="border: solid;">
@@ -146,10 +146,10 @@
         {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .appstore_link | relURL }}" class="store appstore">
+        <a href="{{ .appstore_link | relURL }}" class="store" id="appstore">
           <img src="images/appstore-badge.svg" class="" height="70">
         </a>
-        <a href="{{ .googleplay_link | relURL }}" class="store googleplay">
+        <a href="{{ .googleplay_link | relURL }}" class="store" id="googleplay">
           <img src="images/googleplay-badge.png" class="" height="102">
         </a>
         {{ end }}
