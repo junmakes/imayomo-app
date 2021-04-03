@@ -61,7 +61,7 @@ call_to_action:
   enable : true
   title : "ダウンロードはこちら"
   image : ""
-  content : "imayomoアプリはiOS、Androidに対応しています。"
+  content : "imayomoアプリはiOS、Androidに対応しています。PCからご覧の方はスマホでQRコードを読み込んでください。"
   button:
     enable : true
     label : ""
