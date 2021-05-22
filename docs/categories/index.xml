@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on imayomo | 「あとで読む」を「いま読もう」へ。</title>
+    <title>Categories on imayomo あとで読むを、いま読もうへ。</title>
     <link>https://junmakes.github.io/imayomo-app/categories/</link>
-    <description>Recent content in Categories on imayomo | 「あとで読む」を「いま読もう」へ。</description>
+    <description>Recent content in Categories on imayomo あとで読むを、いま読もうへ。</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>©️ 2021 junmakes</copyright><atom:link href="https://junmakes.github.io/imayomo-app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
