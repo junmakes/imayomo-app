@@ -81,9 +81,9 @@ author = "Themefisher"
 contact_form_action = "#" # contact form works with https://formspree.io
 
 # Open Graph
-  title = "imayomo 「あとで読む」を「いま読もう」へ。"
+  title = "imayomo あとで読むを、いま読もうへ。"
   description = "読む記事に悩まない、読むことを継続したくなるアプリ。"
-  images = ["images/imayomo_icon.png"]
+  images = ["images/ogp.png"]
 
 # Preloader
 [params.preloader]
