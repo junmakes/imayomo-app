@@ -1,7 +1,7 @@
 ####################### Banner #########################
 banner:
   title : "「あとで読む」を「いま読もう」へ。"
-  image : "images/banner-art.svg"
+  image : "images/banner-art.png"
   content : "読む記事に悩まない、読むことを継続したくなるアプリ。"
   button:
     enable : false
@@ -26,7 +26,7 @@ feature:
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "実績が見える"
+    - name : "作成中..."
       icon : "ti-bar-chart"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 

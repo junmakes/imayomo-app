@@ -25,7 +25,7 @@
 
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | relURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | relURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon.ico` | relURL }}" type="image/x-icon">
 
   {{ template "_internal/opengraph.html" . }}
   {{ with .Params.image }}
@@ -33,5 +33,9 @@
   {{ end }}
   <!-- {{ template "_internal/google_analytics_async.html" . }} -->
   {{- partial "analytics" . -}}
+
+  <!-- Open Graph -->
+  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
 
 </head>

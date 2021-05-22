@@ -75,10 +75,15 @@ url = "privacy-policy"
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
+# description = "This is meta description"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
+
+# Open Graph
+  title = "imayomo 「あとで読む」を「いま読もう」へ。"
+  description = "読む記事に悩まない、読むことを継続したくなるアプリ。"
+  images = ["images/imayomo_icon.png"]
 
 # Preloader
 [params.preloader]
