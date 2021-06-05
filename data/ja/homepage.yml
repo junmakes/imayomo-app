@@ -2,7 +2,8 @@
 banner:
   title : "あとで読むを、いま読もうへ。"
   image : "images/banner-art.png"
-  content : "読む記事に悩まない、読むことを継続したくなるアプリ。"
+  content : "読む記事に悩まない、読むことを継続したくなるアプリ。
+  「あとで読む」サービスのPocketと連携して、Pocketに保存している記事を読むサポートをします。"
   button:
     enable : false
     label : ""
@@ -18,17 +19,17 @@ feature:
     # feature item loop
     - name : "読む記事に悩まない"
       icon : "ti-direction"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "記事を読むには「読む」ボタンを押すだけ。たくさんの選択肢を見せて「決断疲れ」を起こさせるようなことはしません。"
       
     # feature item loop
-    - name : "すぐに記事が読める"
-      icon : "ti-check"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "日々の読了状況を可視化"
+      icon : "ti-bar-chart"
+      content : "読む事を継続できている事を実感させるために、数値やグラフを使って読了状況を可視化します。"
       
     # feature item loop
     - name : "作成中..."
-      icon : "ti-bar-chart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      icon : "ti-info-alt"
+      content : "他にも継続できる仕組みを構想中です。"
 
 
 ######################### Service #####################
@@ -36,23 +37,23 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "アプリを起動して「読む」ボタンを押すだけ"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "どの記事から読むか迷わせません。「読む」ボタンを押して、表示された記事を読むだけ。"
       button:
         enable : false
-        label : "Check it out"
+        label : ""
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "今どのくらい継続できているか確認できる"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "日々の読了状況を見て「読むことができている」と実感させます。"
       button:
-        enable : true
-        label : "Check it out"
+        enable : false
+        label : ""
         link : "#"
   
 
