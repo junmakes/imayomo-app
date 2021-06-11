@@ -103,10 +103,10 @@ title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "https://twitter.com/junmakes"
 
-[[params.social]]
-title = "GitHub"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/junmakes"
+# [[params.social]]
+# title = "GitHub"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "https://github.com/junmakes"
 
 ############################## 日本語 ##############################
 

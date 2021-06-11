@@ -1,15 +1,18 @@
 ####################### Banner #########################
 banner:
   title : "あとで読むを、いま読もうへ。"
-  image : "images/banner-art.png"
-  content : "読む記事に悩まない、読むことを継続したくなるアプリ。
-  「あとで読む」サービスのPocketと連携して、Pocketに保存している記事を読むサポートをします。"
+  image : "images/banner-art2.png"
+  content : "
+  「あとで読む」サービスを使ってはいるが、あとで読むことがほとんどないあなたへ。
+  読む記事に悩まない、読むことを少しだけ継続できるアプリ。
+  「あとで読む」サービスのPocketと連携して、Pocketに保存している記事を読むサポートをします。
+  "
   button:
     enable : false
     label : ""
     link : ""
-    appstore_link : "https://www.apple.com/jp/app-store/"
-    googleplay_link : "https://play.google.com/store"
+    appstore_link : "#"
+    googleplay_link : "#"
 
 ##################### Feature ##########################
 feature:
@@ -24,7 +27,7 @@ feature:
     # feature item loop
     - name : "日々の読了状況を可視化"
       icon : "ti-bar-chart"
-      content : "読む事を継続できている事を実感させるために、数値やグラフを使って読了状況を可視化します。"
+      content : "数値やグラフを使ってあなたの日々の読了状況を可視化することで、読むことを継続できていると実感させます。"
       
     # feature item loop
     - name : "作成中..."
@@ -39,8 +42,12 @@ service:
     # service item loop
     - title : "アプリを起動して「読む」ボタンを押すだけ"
       images:
-      - "images/service-1.png"
-      content : "どの記事から読むか迷わせません。「読む」ボタンを押して、表示された記事を読むだけ。"
+      - "images/feature-1.png"
+      content : "
+      どの記事から読むか迷わせません。
+      「あとで読む」リストに並んだたくさんの読む候補から、どれを読むかに悩んだり、さらに後回しにしたりしていませんか？
+      imayomoでは、あなたはただアプリを起動して「読む」ボタンを押し、表示されたサイトを読むだけです。
+      "
       button:
         enable : false
         label : ""
@@ -49,8 +56,12 @@ service:
     # service item loop
     - title : "今どのくらい継続できているか確認できる"
       images:
-      - "images/service-1.png"
-      content : "日々の読了状況を見て「読むことができている」と実感させます。"
+      - "images/feature-2.png"
+      content : "
+      「読むことが継続できている」と実感させます。
+      日々どれくらい「あとで読む」されて、実際に読んでいるか把握していますか？
+      imayomoでは、読了の状況が直感的に理解できるので、日々の目標数達成など改善の具体的なアクションに繋げられます。
+      "
       button:
         enable : false
         label : ""
@@ -66,6 +77,6 @@ call_to_action:
   button:
     enable : true
     label : ""
-    appstore_link : "https://www.apple.com/jp/app-store/"
-    googleplay_link : "https://play.google.com/store"
+    appstore_link : "#"
+    googleplay_link : "#"
 
