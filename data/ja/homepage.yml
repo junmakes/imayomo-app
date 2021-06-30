@@ -11,8 +11,8 @@ banner:
     enable : false
     label : ""
     link : ""
-    appstore_link : "#"
-    googleplay_link : "#"
+    appstore_link : "https://itunes.apple.com/jp/app/id1571221486?mt=8"
+    googleplay_link : "https://play.google.com/store/apps/details?id=io.github.junmakes.imayomo"
 
 ##################### Feature ##########################
 feature:
@@ -77,6 +77,6 @@ call_to_action:
   button:
     enable : true
     label : ""
-    appstore_link : "#"
-    googleplay_link : "#"
+    appstore_link : "https://itunes.apple.com/jp/app/id1571221486?mt=8"
+    googleplay_link : "https://play.google.com/store/apps/details?id=io.github.junmakes.imayomo"
 
